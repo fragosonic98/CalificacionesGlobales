@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("C:/Users/bonip/OneDrive/Documentos/promedios globales/Calificaciones globales.csv", encoding="latin1")
+df = pd.read_csv("Calificaciones globales.csv", encoding="latin1")
 
 # Limpiar espacios en nombres de columnas
 df.columns = df.columns.str.strip()
