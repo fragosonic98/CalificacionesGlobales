@@ -1,4 +1,4 @@
-# CalificacionesGlobales
+# Calificaciones Globales 📌
 Este programa en Python permite importar un archivo CSV con calificaciones de alumnos y calcular estadísticas básicas
   ✅ Promedio individual por alumno
 
@@ -25,7 +25,7 @@ Juan, 8, 9, 7
 Ana, 10, 9, 9
 Luis, 6, 7, 8
 
-#⚙️ Requisitos
+# Requisitos ⚙️
 
 Python 3.x
 
@@ -35,7 +35,7 @@ Instalación de pandas:
 
 pip install pandas
 
-#📊 Funcionalidades
+# Funcionalidades 📊
 
 El programa realiza los siguientes cálculos:
 
