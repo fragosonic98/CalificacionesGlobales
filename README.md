@@ -12,7 +12,7 @@ Este programa en Python permite importar un archivo CSV con calificaciones de al
 
 El proyecto utiliza la librería pandas para el manejo y análisis de datos.
 
-🗂 Estructura del Archivo CSV
+# Estructura del Archivo CSV
 
 El archivo debe contener las siguientes columnas:
 
@@ -25,7 +25,7 @@ Juan, 8, 9, 7
 Ana, 10, 9, 9
 Luis, 6, 7, 8
 
-⚙️ Requisitos
+#⚙️ Requisitos
 
 Python 3.x
 
@@ -35,7 +35,7 @@ Instalación de pandas:
 
 pip install pandas
 
-📊 Funcionalidades
+#📊 Funcionalidades
 
 El programa realiza los siguientes cálculos:
 
